@@ -2,4 +2,4 @@ Carrot
 eggplant
 mango
 tomato
-apple is fresh and not a vegetable
+banana is fresh and not a vegetable
