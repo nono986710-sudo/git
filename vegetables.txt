@@ -2,4 +2,4 @@ Carrot
 eggplant
 mango
 tomato
-apple is not fresh
+apple is fresh
